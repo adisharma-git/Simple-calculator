@@ -1,0 +1,24 @@
+.section {
+  height: 100vh;
+  width: 100%;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.calc {
+  background: black;
+  height: 400px;
+  width: 350px;
+  display: flex;
+  justify-content: center;
+}
+.screen {
+  width: 90%;
+  height: 20%;
+  border: 4px solid white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
