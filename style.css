@@ -55,3 +55,6 @@ button:active {
 .op:active {
   background-color: hsl(36, 73%, 67%);
 }
+.eq {
+  background-color: red;
+}
