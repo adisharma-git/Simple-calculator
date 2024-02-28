@@ -5,11 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>CALCULATOR</title>
     <link rel="stylesheet" href="style.css" />
-    <script src="./main.js"></script>
   </head>
   <body>
-    <div class="section">
-      <input type="text" class="display" readonly />
+    <div id="section">
+      <input type="text" id="display" readonly />
       <div class="buttons">
         <button onclick="appendtodisplay('+')" class="op">+</button>
         <button onclick="appendtodisplay('7')">7</button>
@@ -30,5 +29,6 @@
         <button onclick=" cleardisplay()" class="op">C</button>
       </div>
     </div>
+    <script src="./main.js"></script>
   </body>
 </html>
