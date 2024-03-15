@@ -14,6 +14,9 @@ Welcome to the Simple Calculator project! This is a basic calculator application
 ## Live Demo
 You can try out the live demo of the Simple Calculator [here](https://adisharma-git.github.io/Simple-calculator/).
 
+## Screenshot
+<img src="https://github.com/adisharma-git/Simple-calculator/blob/main/screenshot.png" align="center">
+
 ## How to Use
 1. Simply enter the first number using the number keys.
 2. Click on the operation buttons (+, -, *, /) to choose the desired operation.
